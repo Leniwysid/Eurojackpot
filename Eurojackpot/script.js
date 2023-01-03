@@ -117,7 +117,7 @@ function compare() {
         count++;
       }
     }
-    if (count >= 3) {
+    if (count >= 2) {
       draws += draw;
     }
     draws += "</div>";
